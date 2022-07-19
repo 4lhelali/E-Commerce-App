@@ -13,7 +13,7 @@ const Cart = () => {
         <div className="container py-4">
           <div className="row">
             <h3 style={{ color: "red" }} className="text-center display-6">
-              Your Cart is Empty
+              Your Cart is Empty !
             </h3>
           </div>
         </div>
